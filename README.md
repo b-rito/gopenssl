@@ -16,7 +16,7 @@ Download a precompiled binary from the [Releases](https://github.com/b-rito/gope
 ### Linux:
 
 ```sh
-curl -L -o gopenssl https://github.com/b-rito/gopenssl/releases/latest/download/gopenssl-linux-amd64
+curl -L -o gopenssl https://github.com/b-rito/gopenssl/releases/download/v0.0.1/gopenssl-linux-amd64
 chmod +x gopenssl
 sudo mv gopenssl /usr/local/bin/
 ```
